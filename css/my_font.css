@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'HONOR';
+    src: url('../fonts/HONOR.ttf');
+    
+}
+
+*{
+    font-family: 'HONOR';
+}
